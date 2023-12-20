@@ -1,6 +1,6 @@
-body {
+body, html {
   text-align: center;
-  background-color: #893c98;
+   background-image: linear-gradient(to right top, #051937, #00466d, #007aa0, #00b2ca, #12ebe6);
 }
 
 h1 {
@@ -79,3 +79,4 @@ background-image: url("./images/snare.png");
   margin: 10px;
   background-color: white;
 }
+
